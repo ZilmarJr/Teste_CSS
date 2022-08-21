@@ -1,0 +1,49 @@
+body {
+    background-image: url(../img/Leao2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: gray;
+    color: white; 
+    
+} 
+
+
+h1 { 
+
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+p {
+
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 20px;
+   text-align: justify
+   ;
+}
+
+.text-highlight {
+
+    background-color: yellow;
+    color: black;
+    text-align: center;
+
+}
+
+.special-text {
+
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+a {
+    font-size: 20px;
+    color: red;
+    font-weight: bolder;
+}
+
